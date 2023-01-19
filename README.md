@@ -1,4 +1,4 @@
-# Ittalents, Test 1, Version 3, Java
+# Ittalents Season 15, Test 1, Version 3, Java
 
 Task №1: Write a program that reads two String values separated by space – each one – the value of a dice. Dices are called angle dice and shape dice. Possible inputs for the angle dice are “three”,”four”, ”five” and six”. Possible inputs for the shape dice are “triangle”, “square”, “pentagon” and “hexagon”. The inputs are infinite. The pro- gram must stop when there have been 3 consecutive throws of matching dices. A maching pair of dices means that the first dice` value describes the number of angles in the second dice`value. Finally, the program must ouput the total number of throws as well sa the total number of angles that had been seen from the first dice.
 
